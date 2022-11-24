@@ -1,5 +1,5 @@
 # INTEGRANTES
 
-1. Nicolás Ruiz Pérez, Requerimiento 3
-2. Gabriel Francisco González Estrada , Requerimiento 4
-3. Guillermo Antonio Villalba Escamilla, Requerimiento 5
+1. Req. 3 - Nicolás Ruiz Pérez
+2. Req. 4 - Gabriel Francisco González Estrada
+3. Req. 5 - Guillermo Antonio Villalba Escamilla

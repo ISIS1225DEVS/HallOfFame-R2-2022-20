@@ -1,9 +1,5 @@
 # INTEGRANTES
-<!-- TODO agregar integrantes del grupo -->
-Laura Valentina Ceron Pulgarin
 
-
-Mario Felipe Velasquez
-
-
-Wilmer Manuel Arevalo
+* Req. 3 - Laura Valentina Ceron Pulgarin
+* Req. 4 - Mario Felipe Velasquez
+* Req. 5 - Wilmer Manuel Arevalo
