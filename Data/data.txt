@@ -1,1 +1,8 @@
-﻿# TODO aqui va la carpeta con los el subconjunto -small del reto
+﻿# La carpeta contiene los subconjuntos -small del reto
+
+fuente original:
+
+  Kaggle, Netflix Movies and TV Shows Dataset, URL: https://www.kaggle.com/datasets/shivamb/netflix-shows 
+  Kaggle, Amazon Prime Movies and TV Shows Dataset, URL: https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows 
+  Kaggle, Disney+ Movies and TV Shows Dataset, URL: https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows 
+  Kaggle, Hulu Movies and TV Shows Dataset, URL: https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows
